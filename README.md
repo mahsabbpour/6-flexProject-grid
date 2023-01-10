@@ -1,8 +1,6 @@
 # 6-flexProject-grid
 
-![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
-
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+![view](https://user-images.githubusercontent.com/120960956/211679919-f689e268-734a-4225-aa4d-45f0c0286cf3.mp4)
 
 - [Demo Project]( https://mahsabbpour.github.io/6-flexProject-grid/)
 
