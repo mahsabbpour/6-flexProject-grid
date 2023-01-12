@@ -1,6 +1,6 @@
 # 6-flexProject-grid
 
-![view](https://user-images.githubusercontent.com/120960956/211679919-f689e268-734a-4225-aa4d-45f0c0286cf3.mp4)
+[view](https://user-images.githubusercontent.com/120960956/211679919-f689e268-734a-4225-aa4d-45f0c0286cf3.mp4)
 
 - [Demo Project]( https://mahsabbpour.github.io/6-flexProject-grid/)
 
